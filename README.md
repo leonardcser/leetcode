@@ -1,3 +1,4 @@
 # LeetCode
 
-This repository contains my solutions to [leetcode](www.leetcode.com).
+This repository contains my solutions to [leetcode](https://www.leetcode.com)
+problems.
